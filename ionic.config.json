@@ -1,0 +1,7 @@
+{
+  "name": "policia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
